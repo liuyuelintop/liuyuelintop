@@ -5,15 +5,15 @@
 
 - 🌱 I’m currently learning **MERN, REST, GraphQL, Typescript, Next.js, AWS EC2**
 
-- 👨‍💻 All of my projects are available at [https://react-portfolio-tau-eight-56.vercel.app/](https://react-portfolio-tau-eight-56.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://www.liuyuelin.dev/](https://www.liuyuelin.dev/)
 
-- 📝 I regularly write articles on [https://next-blog-alpha-sable-40.vercel.app/blog](https://next-blog-alpha-sable-40.vercel.app/blog)
+- 📝 I regularly write articles on [https://blog.liuyuelin.dev/](https://blog.liuyuelin.dev/)
 
 - 💬 Ask me about **React, Job Hunting, Ultimate Frisbee**
 
 - 📫 How to reach me **liuyuelintop@gmail.com**
 
-- 📄 Know about my experiences [Yuelin Liu CV 2024](https://drive.google.com/file/d/1fXgTRPyUQBYm7QINTSQvcNWuce9z8CUU/view?usp=drive_link)
+- 📄 Know about my experiences [Yuelin Liu Resume 2025](https://drive.google.com/file/d/15smQi846a6C5F8SZwHICnILB8wCzMJk5/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
