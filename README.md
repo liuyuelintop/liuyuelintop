@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **liuyuelintop@gmail.com**
 
-- 📄 Know about my experiences [Yuelin Liu Resume 2025](https://drive.google.com/file/d/15smQi846a6C5F8SZwHICnILB8wCzMJk5/view)
+- 📄 Know about my experiences [Yuelin Liu Resume 2025](https://drive.google.com/file/d/1l9tERAJEavIBRiAmiB70s8yg5_UQcSEN/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
