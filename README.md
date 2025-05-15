@@ -1,19 +1,22 @@
 <h1 align="center">Hi 👋, I'm Yuelin Liu</h1>
-<h3 align="center">A passionate full stack developer from Australian</h3>
+<h3 align="center">A full stack developer passionate about building clean, scalable, and useful web applications</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=liuyuelintop&label=Profile%20views&color=0e75b6&style=flat" alt="liuyuelintop" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=liuyuelintop&label=Profile%20views&color=0e75b6&style=flat" alt="liuyuelintop" />
+</p>
 
-- 🌱 I’m currently learning **MERN, REST, GraphQL, Typescript, Next.js, AWS EC2**
+- 🔭 I’m currently working on **Co-PR**, a greenfield AI-powered SaaS platform at ByteCroniX
+- 🧠 I’m deepening my skills in **TypeScript, Next.js, GraphQL, AWS, and clean microservice architecture**
+- 🌐 My portfolio: [https://www.liuyuelin.dev](https://www.liuyuelin.dev)
+- 📝 I blog about tech and productivity: [https://blog.liuyuelin.dev](https://blog.liuyuelin.dev)
+- 💬 Talk to me about **React, full stack career growth, and Ultimate Frisbee 🥏**
+- 📫 Reach me at **liuyuelintop@gmail.com**
+- 📄 View my resume: [Yuelin Liu Resume 2025](https://drive.google.com/file/d/1axuTaOKEsCoVyUFMe1mSomAGimwgF2hi/view)
 
-- 👨‍💻 All of my projects are available at [https://www.liuyuelin.dev/](https://www.liuyuelin.dev/)
-
-- 📝 I regularly write articles on [https://blog.liuyuelin.dev/](https://blog.liuyuelin.dev/)
-
-- 💬 Ask me about **React, Job Hunting, Ultimate Frisbee**
-
-- 📫 How to reach me **liuyuelintop@gmail.com**
-
-- 📄 Know about my experiences [Yuelin Liu Resume 2025](https://drive.google.com/file/d/1l9tERAJEavIBRiAmiB70s8yg5_UQcSEN/view)
+### 🧰 Tech Stack
+```ts
+JavaScript | TypeScript | React | Next.js | Node.js | Express | MongoDB | PostgreSQL | Firebase | Docker | AWS EC2 | GraphQL | REST | Tailwind CSS
+```
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
